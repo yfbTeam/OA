@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="messageurl.aspx.cs" Inherits="xyoa.Client.messageurl" %>

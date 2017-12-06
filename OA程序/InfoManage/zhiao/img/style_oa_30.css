@@ -1,0 +1,200 @@
+
+.shop2
+{
+    FONT-SIZE: 12px;
+    FILTER: DropShadow(Color=#ffffff,OffX=1, OffY=1, Positive=1)
+}
+.shop3
+{
+    FILTER: DropShadow(Color=#065b6f,OffX=1, OffY=1, Positive=1)
+}
+.cpx12hei
+{
+    FONT-SIZE: 12px;
+    COLOR: #000000;
+    TEXT-DECORATION: none
+}
+A.cpx12hei:hover
+{
+    FONT-SIZE: 12px;
+    COLOR: #fd7405;
+    TEXT-DECORATION: none
+}
+.box
+{
+    BORDER-RIGHT: #000000 1px solid;
+    BORDER-TOP: #000000 1px solid;
+    BORDER-LEFT: #000000 1px solid;
+    BORDER-BOTTOM: #000000 1px solid;
+    BACKGROUND-COLOR: #ffffff
+}
+.cpx12hui
+{
+    FONT-SIZE: 12px;
+    COLOR: #5a5a5a;
+    LINE-HEIGHT: 25px;
+    TEXT-DECORATION: none
+}
+.sb
+{
+    HEIGHT: 20px
+}
+A.cpx12hui:hover
+{
+    FONT-SIZE: 12px;
+    COLOR: #006699;
+    TEXT-DECORATION: none
+}
+.cpx12yred
+{
+    FONT-SIZE: 12px;
+    COLOR: #cf7500;
+    TEXT-DECORATION: none
+}
+A.cpx12yred:hover
+{
+    FONT-SIZE: 12px;
+    COLOR: #006699;
+    TEXT-DECORATION: none
+}
+.cpx12bai
+{
+    FONT-SIZE: 12px;
+    COLOR: #ffffff;
+    TEXT-DECORATION: none
+}
+.cpx1200659C
+{
+    FONT-SIZE: 12px;
+    COLOR: #00659c;
+    TEXT-DECORATION: none
+}
+A.cpx1200659C:hover
+{
+    FONT-SIZE: 12px;
+    COLOR: #cc6600;
+    TEXT-DECORATION: none
+}
+.shadow2
+{
+    FILTER: DropShadow(Color=#000000, OffX=1, OffY=1, Positive=1)
+}
+
+BUTTON.btn4on
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    PADDING-LEFT: 8px;
+    FONT-SIZE: 9pt;
+    BACKGROUND-IMAGE: url(BG0005.gif);
+    PADDING-BOTTOM: 2px;
+    MARGIN: 0px;
+    OVERFLOW: hidden;
+    BORDER-LEFT: medium none;
+    WIDTH: 81px;
+    CURSOR: hand;
+    COLOR: #444659;
+    PADDING-TOP: 8px;
+    BORDER-BOTTOM: medium none;
+    BACKGROUND-REPEAT: no-repeat;
+    FONT-FAMILY: "??¨¬?";
+    HEIGHT: 26px;
+    BACKGROUND-COLOR: transparent;
+    TEXT-ALIGN: center
+}
+BUTTON.btn4off
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    PADDING-LEFT: 0px;
+    FONT-SIZE: 9pt;
+    BACKGROUND-IMAGE: url(BG0004.gif);
+    PADDING-BOTTOM: 4px;
+    MARGIN: 0px;
+    OVERFLOW: hidden;
+    BORDER-LEFT: medium none;
+    WIDTH: 81px;
+    CURSOR: hand;
+    COLOR: #444659;
+    PADDING-TOP: 0px;
+    BORDER-BOTTOM: medium none;
+    BACKGROUND-REPEAT: no-repeat;
+    FONT-FAMILY: "??¨¬?";
+    HEIGHT: 26px;
+    BACKGROUND-COLOR: transparent;
+    TEXT-ALIGN: center
+}
+
+.shadow_but
+{
+
+}
+.shadow_but_b
+{
+    FILTER: DropShadow(Color=#FFFFFF, OffX=1, OffY=1,Positive=2);
+    HEIGHT: 0px
+}
+.cpx12red
+{
+    FONT-SIZE: 12px;
+    COLOR: #ff0000;
+    TEXT-DECORATION: none
+}
+
+.FormGlobal
+{
+    FONT-SIZE: 12px;
+    COLOR: #5a5a5a;
+    LINE-HEIGHT: 25px;
+    BACKGROUND-COLOR: #999999;
+    TEXT-DECORATION: none
+}
+.FormTitle
+{
+    FONT-SIZE: 12px;
+    COLOR: #5a5a5a;
+    LINE-HEIGHT: 25px;
+    BACKGROUND-COLOR: #cccccc;
+    TEXT-DECORATION: none
+}
+.FormInput
+{
+    BACKGROUND-COLOR: #eeeeee
+}
+A
+{
+    COLOR: #00659c;
+    TEXT-DECORATION: none
+}
+.ReadOnlyText {
+	FONT-SIZE: 12px;
+	FONT-FAMILY: ËÎÌå;
+	background-color:#F9F9F9;
+
+}
+
+.Twhname1 {
+	FONT-SIZE: 12px;
+	FONT-FAMILY: ËÎÌå;
+	
+    BORDER-RIGHT: 0px solid;
+    BORDER-TOP: 0px solid;
+    BORDER-LEFT: 0px solid;
+    BORDER-BOTTOM:  0px solid;
+
+}
+
+.Twhname2 {
+	FONT-SIZE: 12px;
+	FONT-FAMILY: ËÎÌå;
+	
+    BORDER-RIGHT: 0px solid;
+    BORDER-TOP: 0px solid;
+    BORDER-LEFT: 0px solid;
+    BORDER-BOTTOM:  1px solid;
+
+}
+
+.dragAble {position:relative;cursor:move;} 
+
+.dragLCAble {position:relative;cursor:not-allowed;} 

@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="tail.ascx.cs" Inherits="xyoa.web.tail" %>
+<TABLE height=68 cellSpacing=0 cellPadding=0 width="100%" border=0><TBODY><TR><TD align=center><%=ViewState["Dibu"] %></TD></TR></TBODY></TABLE>

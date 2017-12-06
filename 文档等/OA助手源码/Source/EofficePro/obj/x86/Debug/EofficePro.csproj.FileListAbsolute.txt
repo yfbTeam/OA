@@ -1,0 +1,5 @@
+E:\OANew10.3\OA助手\Source\EofficePro\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\OANew10.3\OA助手\Source\EofficePro\bin\Debug\EofficePro.exe
+E:\OANew10.3\OA助手\Source\EofficePro\bin\Debug\EofficePro.pdb
+E:\OANew10.3\OA助手\Source\EofficePro\obj\x86\Debug\EofficePro.exe
+E:\OANew10.3\OA助手\Source\EofficePro\obj\x86\Debug\EofficePro.pdb

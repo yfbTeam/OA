@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="MyPage_wt_show_qxtj.aspx.cs" Inherits="xyoa.InfoManage.zhiao.MyPage_wt_show_qxtj" %>

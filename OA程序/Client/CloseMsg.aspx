@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="CloseMsg.aspx.cs" Inherits="xyoa.Client.CloseMsg" %>

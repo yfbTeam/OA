@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="SmsOpendel.aspx.cs" Inherits="xyoa.mainpage.SmsOpendel" %>

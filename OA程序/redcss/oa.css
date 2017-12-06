@@ -1,0 +1,226 @@
+body,tr,td{
+    MARGIN: 0px ;SCROLLBAR-FACE-COLOR: #dee3e7; FONT-SIZE: 12px; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: #dee3e7; COLOR: #000000; SCROLLBAR-3DLIGHT-COLOR: #d1d7dc; SCROLLBAR-ARROW-COLOR: #006699; SCROLLBAR-TRACK-COLOR: #efefef; FONT-FAMILY: 宋体; SCROLLBAR-DARKSHADOW-COLOR: #98aab1;
+}
+
+.mainDiv {  overflow-x: auto; WIDTH: expression(document.body.clientWidth-35); HEIGHT: expression((document.body.clientHeight-this.offsetTop-2>this.children[0].offsetHeight)?(this.children[0].offsetHeight+20) : (document.body.clientHeight-this.offsetTop-30)) } 
+
+.mainbody1{
+background-image: url(mainline.jpg);
+}
+
+.mainbody2{
+background-image: url(mainline.jpg);
+}
+
+.mainbody3{
+background-image: url(body15.jpg);
+}
+
+.maincss{
+	background-color:#F4C8C7;
+}
+
+A.MainLine:link
+{
+	font-size: 12px;
+	color: #872323;
+	text-decoration: none;
+}	
+	
+A.MainLine:visited
+{
+	font-size: 12px;
+	color: #872323;
+	text-decoration: none;
+}	
+	
+
+A.MainLine:active
+{
+    FONT-SIZE: 12px;
+    COLOR: #872323;
+    TEXT-DECORATION: none
+}
+
+A.MainLine:hover
+{
+    FONT-SIZE: 12px;
+    COLOR: #872323;
+    TEXT-DECORATION: none
+}
+
+
+.bluetable{
+font-size: 12px;
+background-image: url(top.jpg);
+}
+
+.bluetop{
+font-size: 12px;
+background-image: url(top1.jpg);
+color: #ffffff;
+}
+
+.blueheadtr{
+font-size: 12px;
+color: #ffffff;
+}
+
+.bluetail{
+font-size: 12px;
+background-image: url(tail.jpg);
+color: #ffffff;
+}
+.bluemidd1{
+background-image: url(m1.gif);
+}
+.blueleft{
+font-size: 12px;
+background-image: url(leftbg.gif);
+color: #ffffff;
+}
+.lefttd{
+font-size: 12px;
+color: #ffffff;
+text-decoration: none;
+}
+
+A:link
+{
+	font-size: 12px;
+	color: #444659;
+	text-decoration: none;
+}	
+		
+A:visited
+{
+	font-size: 12px;
+	color: #444659;
+	text-decoration: none;
+}	
+		
+A:active
+{
+	color: #000000;
+	font-size: 12px;
+	text-decoration: none;
+}	
+		
+A:hover
+{
+	color: #000000;
+	font-size: 12px;
+	text-decoration: none;
+}	
+.nexttop{
+background-image: url(lingbg.jpg);
+color: #ffffff;
+}
+
+.newbody{
+background-image: url(menuBG.gif);
+}
+.newtitle{
+	background-image: url(header_bg.gif);
+}
+
+.button_blue
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    PADDING-LEFT: 0px;
+    FONT-SIZE: 9pt;
+    BACKGROUND-IMAGE: url(BG0004.gif);
+    PADDING-BOTTOM: 4px;
+    MARGIN: 0px;
+  
+    BORDER-LEFT: medium none;
+    WIDTH: 61px;
+    CURSOR: hand;
+    COLOR: #ffffff;
+    PADDING-TOP: 0px;
+    BORDER-BOTTOM: medium none;
+    BACKGROUND-REPEAT: no-repeat;
+    FONT-FAMILY: "宋体";
+    HEIGHT: 26px;
+    BACKGROUND-COLOR: transparent;
+    TEXT-ALIGN: center
+}	
+.button_bluebg
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    PADDING-LEFT: 0px;
+    FONT-SIZE: 9pt;
+    BACKGROUND-IMAGE: url(BG0005k.gif);
+    PADDING-BOTTOM: 4px;
+    MARGIN: 0px;
+  
+    BORDER-LEFT: medium none;
+    WIDTH: 80px;
+    CURSOR: hand;
+    COLOR: #ffffff;
+    PADDING-TOP: 0px;
+    BORDER-BOTTOM: medium none;
+    BACKGROUND-REPEAT: no-repeat;
+    FONT-FAMILY: "宋体";
+    HEIGHT: 26px;
+    BACKGROUND-COLOR: transparent;
+    TEXT-ALIGN: center
+}
+.nextpage{
+	BACKGROUND-COLOR: #FEABAB;
+}
+
+.newtd1{
+	background-color:#FFFAEC;
+}
+
+.newtd2{
+	background-color:#ffffff;
+}
+
+.button_css
+{
+	border-right: #94C3CE 0px solid;
+	border-top: #94C3CE 0px solid;
+	border-left: #94C3CE 0px solid;
+	border-bottom: #94C3CE 0px solid;
+	color: #ffffff;
+	font-family: "宋体";
+	font-size: 12px;
+	background-image: url(11.gif);
+	HEIGHT: 21px;
+	text-decoration: none;
+	
+}	
+
+A.LinkLine:link
+{
+	font-size: 12px;
+	color: #444659;
+	text-decoration: underline;
+}	
+	
+A.LinkLine:visited
+{
+	font-size: 12px;
+	color: #444659;
+	text-decoration: underline;
+}	
+	
+
+A.LinkLine:active
+{
+    FONT-SIZE: 12px;
+    COLOR: #fd7405;
+    TEXT-DECORATION: underline
+}
+
+A.LinkLine:hover
+{
+    FONT-SIZE: 12px;
+    COLOR: #fd7405;
+    TEXT-DECORATION:underline;
+}
+

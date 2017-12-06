@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="CountUser.aspx.cs" Inherits="xyoa.Client.CountUser" %>

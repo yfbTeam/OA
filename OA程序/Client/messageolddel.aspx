@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="messageolddel.aspx.cs" Inherits="xyoa.Client.messageolddel" %>

@@ -1,0 +1,533 @@
+/* 新 Web 应用程序项目的默认 CSS Stylesheet */
+
+BODY, TD, P, LI, INPUT,  TEXTAREA, UL, DL, LABEL, SPAN
+{
+	 MARGIN: 0px ;SCROLLBAR-FACE-COLOR: #dee3e7; FONT-SIZE: 12px; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: #dee3e7; COLOR: #000000; SCROLLBAR-3DLIGHT-COLOR: #d1d7dc; SCROLLBAR-ARROW-COLOR: #006699; SCROLLBAR-TRACK-COLOR: #efefef; FONT-FAMILY: 宋体; SCROLLBAR-DARKSHADOW-COLOR: #98aab1;
+	font-weight: normal;
+	font-size: 12px;
+	word-spacing: normal;
+	text-transform: none;
+	font-family: Verdana, Helvetica, sans-serif;
+	letter-spacing: normal;
+	color:#000000;
+}
+
+.headtd
+{
+	font-size: 12px;
+	color: #004F9C;
+}
+
+.STYLE1 {
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.textbox
+{
+	border-right: #666666 0px solid;
+	border-top: #666666 0px solid;
+	font-size: 12px;
+	border-left: #666666 0px solid;
+	color: #000000;
+	border-bottom: #666666 0px solid;
+	font-family: "宋体";
+	background-color: #ffffff;
+	
+	padding:2px;
+	
+	
+}	
+
+
+A:link
+{
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}	
+		
+A:visited
+{
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}	
+		
+A:active
+{
+	color: #313034;
+	text-decoration: underline;
+}	
+		
+A:hover
+{
+	color: #313034;
+	
+	text-decoration: underline;
+}
+
+
+A.write:link
+{
+	font-size: 12px;
+	color: #ffffff;
+	text-decoration: none;
+}	
+		
+A.write:visited
+{
+	font-size: 12px;
+	color: #ffffff;
+	text-decoration: none;
+}	
+		
+A.write:active
+{
+	color: #ffffff;
+	text-decoration: underline;
+}	
+		
+A.write:hover
+{
+	color: #ffffff;
+	
+	text-decoration: underline;
+}
+
+
+
+A.red:link
+{
+	font-size: 12px;
+	color: #ff0000;
+	text-decoration: none;
+}	
+		
+A.red:visited
+{
+	font-size: 12px;
+	color: #ff0000;
+	text-decoration: none;
+}	
+		
+A.red:active
+{
+	color: #ff0000;
+	text-decoration: underline;
+}	
+		
+A.red:hover
+{
+	color: #ff0000;
+	
+	text-decoration: underline;
+}
+
+
+
+A.blue:link
+{
+	font-size: 12px;
+	color: #4E4E4E;
+	text-decoration: underline;
+}	
+		
+A.blue:visited
+{
+	font-size: 12px;
+	color: #4E4E4E;
+	text-decoration: underline;
+}	
+		
+A.blue:active
+{
+	font-size: 12px;
+	color: #FE0000;
+	text-decoration: underline;
+}	
+		
+A.blue:hover
+{
+	font-size: 12px;
+	color: #FE0000;
+	text-decoration: underline;
+}
+
+
+A.line:link
+{
+	font-size: 12px;
+	color: #000000;
+	text-decoration: underline;
+}	
+		
+A.line:visited
+{
+	font-size: 12px;
+	color: #000000;
+	text-decoration: underline;
+}	
+		
+A.line:active
+{
+	color: #F96900;
+	text-decoration: underline;
+}	
+		
+A.line:hover
+{
+	color: #F96900;
+	
+	text-decoration: underline;
+}
+
+
+A.line_b:link
+{
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}	
+		
+A.line_b:visited
+{
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}	
+		
+A.line_b:active
+{
+	color: #000000;
+	text-decoration: underline;
+}	
+		
+A.line_b:hover
+{
+	color: #000000;
+	
+	text-decoration: underline;
+}
+
+
+A.line_w:link
+{
+	font-size: 12px;
+	color: #ffffff;
+	text-decoration: none;
+}	
+		
+A.line_w:visited
+{
+	font-size: 12px;
+	color: #ffffff;
+	text-decoration: none;
+}	
+		
+A.line_w:active
+{
+	color: #FFFF66;
+	text-decoration: underline;
+}	
+		
+A.line_w:hover
+{
+	color: #FFFF66;
+	text-decoration: underline;
+}
+
+
+A.line_l:link
+{
+	font-size: 12px;
+
+	color: #018CCD;
+	text-decoration: none;
+}	
+		
+A.line_l:visited
+{
+	font-size: 12px;
+
+	color: #018CCD;
+	text-decoration: none;
+}	
+		
+A.line_l:active
+{
+	color: #018CCD;
+
+	text-decoration: underline;
+}	
+		
+A.line_l:hover
+{
+	color: #018CCD;
+
+	text-decoration: underline;
+}
+
+
+A.line_blue_l:link
+{
+	font-size: 12px;
+	color: #004F9C;
+	text-decoration: underline;
+}	
+		
+A.line_blue_l:visited
+{
+	font-size: 12px;
+	color: #004F9C;
+	text-decoration: underline;
+}	
+		
+A.line_blue_l:active
+{
+	color: #004F9C;
+	text-decoration: underline;
+}	
+		
+A.line_blue_l:hover
+{
+	color: #004F9C;
+	
+	text-decoration: underline;
+}
+
+
+
+A.line_red_l:link
+{
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+}	
+		
+A.line_red_l:visited
+{
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+}	
+		
+A.line_red_l:active
+{
+	color: #FF0000;
+	text-decoration: underline;
+}	
+		
+A.line_red_l:hover
+{
+	color: #FF0000;
+	
+	text-decoration: underline;
+}
+
+
+A.link13:link
+{
+	font-size: 14px;
+	color: #004F9C;
+	text-decoration: none;
+}	
+		
+A.link13:visited
+{
+	font-size: 14px;
+	color: #004F9C;
+	text-decoration: none;
+}	
+		
+A.link13:active
+{
+	font-size: 14px;
+	color: #004F9C;
+	text-decoration: underline;
+}	
+		
+A.link13:hover
+{
+	font-size: 14px;
+	color: #004F9C;
+	text-decoration: underline;
+}
+
+
+
+A.link14:link
+{
+	font-size: 14px;
+	color: #ff0000;
+	text-decoration: none;
+}	
+		
+A.link14:visited
+{
+	font-size: 14px;
+	color: #ff0000;
+	text-decoration: none;
+}	
+		
+A.link14:active
+{
+	font-size: 14px;
+	color: #ff0000;
+	text-decoration: underline;
+}	
+		
+A.link14:hover
+{
+	font-size: 14px;
+	color: #ff0000;
+	text-decoration: underline;
+}
+
+
+A.link15:link
+{
+	font-size: 12px;
+	color: #15468B;
+	text-decoration: none;
+}	
+		
+A.link15:visited
+{
+	font-size: 12px;
+	color: #15468B;
+	text-decoration: none;
+}	
+		
+A.link15:active
+{
+	font-size: 12px;
+	color: #15468B;
+	text-decoration: underline;
+}	
+		
+A.link15:hover
+{
+	font-size: 12px;
+	color: #15468B;
+	text-decoration: underline;
+}
+
+
+A.nextcl:link
+{
+	font-size: 12px;
+	color: #FD2F2F;
+	text-decoration: none;
+}	
+		
+A.nextcl:visited
+{
+	font-size: 12px;
+	color: #FD2F2F;
+	text-decoration: none;
+}	
+		
+A.nextcl:active
+{
+	font-size: 12px;
+	color: #FD2F2F;
+	text-decoration: none;
+}	
+		
+A.nextcl:hover
+{
+	font-size: 12px;
+	color: #FD2F2F;
+	text-decoration: none;
+}
+
+
+
+
+.button_blue
+{
+	border-right: #ffffff 1px solid;
+	border-top: #ffffff 1px solid;
+	font-size: 12px;
+	border-left: #ffffff 1px solid;
+	color: #555555;
+	border-bottom: #ffffff 1px solid;
+	font-family: "宋体";
+	background-color: #ffffff;
+	
+	text-decoration: none;
+	
+}	
+
+.button_like
+{
+	border-right: #50A2C2 1px solid;
+	border-top: #50A2C2 1px solid;
+	font-size: 12px;
+	border-left: #50A2C2 1px solid;
+	color: #50A2C2;
+	border-bottom: #50A2C2 1px solid;
+	font-family: "宋体";
+	background-color: #F7FFFE;
+	border-style:Groove;
+	text-decoration: none;
+	
+}	
+
+.button_jdkd
+{
+	border-right: #50A2C2 1px solid;
+	border-top: #50A2C2 1px solid;
+	font-size: 12px;
+	border-left: #50A2C2 1px solid;
+	color: #50A2C2;
+	border-bottom: #50A2C2 1px solid;
+	font-family: "宋体";
+	background-color: #F7FFFE;
+	border-style:Groove;
+	text-decoration: none;
+	width:120px;
+	
+}	
+
+.textbox_show
+{
+	
+	
+	font-size: 12px;
+	
+	color: #000000;
+	
+	font-family: "宋体";
+	background-color: #FDF7FC;
+	border-style:Groove;
+	text-decoration: none;
+	
+}	
+
+.datadownlist
+{ 
+	
+
+	background-color:#e9f0f8;
+	font-size:12px;
+	color:#666666;
+	
+	
+	
+}
+
+.tddisp {
+	DISPLAY: none
+	
+}
+	
+.blueBody {
+	
+}
+	
+
+
+

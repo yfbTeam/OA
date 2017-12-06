@@ -1,0 +1,25 @@
+body ,td,tr {
+    MARGIN: 0px ;SCROLLBAR-FACE-COLOR: #dee3e7; FONT-SIZE: 12px; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: #dee3e7; COLOR: #000000; SCROLLBAR-3DLIGHT-COLOR: #d1d7dc; SCROLLBAR-ARROW-COLOR: #006699; SCROLLBAR-TRACK-COLOR: #efefef; FONT-FAMILY: ËÎÌו; SCROLLBAR-DARKSHADOW-COLOR: #98aab1;
+	font-size: 12px;
+}
+
+.TextBox {
+	FONT-SIZE: 12px;
+	FONT-FAMILY: ËÎÌו;
+	font-weight: normal;
+	font-style: normal;
+	border :1px solid #8B8B8B;
+	
+}
+
+
+
+
+
+.BlogRemark
+{
+	font-size:12px;
+	font-family: "ËÎÌו";
+	font-style: normal;
+	
+}

@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="CountMessageTx.aspx.cs" Inherits="xyoa.CountMessageTx" %>
